@@ -185,7 +185,7 @@ footer p a{
     height: 100%; */
     /* margin-top: 1em; */
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 40%;
     border: 5px solid #CEC89F;
     margin-bottom: 10px;
     transition: 0.3s;
