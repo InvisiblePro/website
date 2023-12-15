@@ -139,8 +139,8 @@ li:hover{
 
 .jobs-list-container h2 {
   font-size: 30px;
-  border-left: 4px solid #CEC89F;
-  padding-left: 20px;
+  /* border-left: 4px solid #CEC89F; */
+  /* padding-left: 20px;   */
   color: #CEC89F;
 }
 

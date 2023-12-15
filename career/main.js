@@ -61,9 +61,9 @@ const jobSearch = document.querySelector(".jobs-list-container .job-search");
 let searchTerm = "";
 
 if (jobs.length == 1) {
-  jobsHeading.innerHTML = `${jobs.length} Job`;
+  jobsHeading.innerHTML = `${jobs.length} Job, Hurry Up!`;
 } else {
-  jobsHeading.innerHTML = `${jobs.length} Jobs`;
+  jobsHeading.innerHTML = `${jobs.length} Jobs, Hurry Up!`;
 }
 
 const createJobListingCards = () => {
